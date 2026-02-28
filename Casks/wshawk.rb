@@ -1,6 +1,6 @@
 cask "wshawk" do
-  version "3.0.1"
-  sha256 "30766b067830733fab2710ca72495c01bd43d5e0054c9027c4372375477327fd"
+  version "3.0.2"
+  sha256 "20b07239d73d1d87d770b3ac581c31f590ab63a2ea95d80f5f7133c93a068654"
 
   url "https://github.com/noobforanonymous/wshawk/releases/download/v#{version}/WSHawk-#{version}-arm64.dmg"
   name "WSHawk"
